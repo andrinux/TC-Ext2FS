@@ -6,6 +6,7 @@
     [Link]: https://www.kernel.org/pub/linux/kernel/v2.6/
 - Modularize until change of inode structure
 - Need rebuilding of kernel. See Google Doc for references.
+
 # Install FS Module
 ~~~~
 insmod ext2.ko
