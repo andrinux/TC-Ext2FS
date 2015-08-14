@@ -1,0 +1,15 @@
+*.o
+*.ko
+*~
+aclocal.m4
+autom4te.cache/
+compile
+config.status
+
+AUTHORS
+NEWS
+COPYING
+ChangeLog
+INSTALL
+Makefile.in
+
